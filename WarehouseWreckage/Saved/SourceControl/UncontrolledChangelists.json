@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/hjkim/Desktop/work/hello-unreal/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
-				"/Users/hjkim/Desktop/work/hello-unreal/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"/Users/hjkim/Desktop/work/hello-unreal/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/hjkim/Desktop/work/hello-unreal/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
 			]
 		}
 	]
